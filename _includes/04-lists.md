@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Love :heart:
+* Music :musical_note:
+  * Country 
+* I want to be a princess :princess:
